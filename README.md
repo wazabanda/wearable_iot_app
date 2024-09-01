@@ -1,6 +1,6 @@
 # wearable_test_application
 
-Trying to learnin wearable flutter app development
+Trying to learn wearable flutter app development, This project specifically will be a port of the IOT Companinon app to run on wearable devices, all be it with limited capabilities
 
 ## Getting Started
 
